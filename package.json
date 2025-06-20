@@ -1,0 +1,21 @@
+{
+  "name": "react-native-template-vnid",
+  "version": "1.0.0",
+  "description": "VNID React Native Template",
+  "main": "template.config.js",
+  "keywords": [
+    "react-native",
+    "template",
+    "vnid"
+  ],
+  "author": "QuangTruong12112003",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangTruong12112003/react-native-template-vnid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuangTruong12112003/react-native-template-vnid/issues"
+  },
+  "homepage": "https://github.com/QuangTruong12112003/react-native-template-vnid#readme"
+}
